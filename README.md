@@ -1,0 +1,53 @@
+# Muhammad Suleman Faisal
+
+💧 **Software Engineering Student | Water drinker**  
+📌 `mhmmdslmnfsl`
+
+---
+
+## 🚀 About Me
+Casually learning.
+
+- 🌱 Currently learning: `Next.js`, `React`, `Database Design`, `AI Integration`
+- 💬 Ask me about: `Software Design Patterns`, `UML Diagrams` , `Algorithms`
+- 🧠 Always open to learning and contributing to exciting open-source projects
+
+---
+
+## 📫 Contact Me
+- 📧 Email: `sulemanmuhammed493@gmail.com`
+### Contact Me
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/muhammed-suleman-faisal-b36407276/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/mhmmdslmnfsl/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mhmmdslmnfslnust) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://https://www.hackerrank.com/profile/sulemanmuhammed1/)
+|:---:|:---:|:---:|:---:|
+---
+
+## 🛠️ Languages and Tools
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Muhammad Suleman Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmmdslmnfsl&show_icons=true&theme=radical)
+### 🧩 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanirfanx21&layout=compact&theme=radical)
+### Top Repository 01
+<a href="https://github.com/mhmmdslmnfslnust/OOP_PROJECT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdslmnfslnust&repo=OOP_PROJECT&theme=dark" />
+</a>
+
+### Top Repository 01
+
+<a href="https://github.com/mhmmdslmnfslnust/File-Management-In-CPP">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdslmnfslnust&repo=File-Management-In-CPP&theme=dark" />
+</a>
+---
+
+> _"Impossible is for the unwilling"_
