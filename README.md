@@ -35,9 +35,9 @@ Casually learning.
 ---
 
 ## 📊 GitHub Stats
-![Muhammad Suleman Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmmdslmnfsl&show_icons=true&theme=radical)
+![Muhammad Suleman Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&theme=radical)
 ### 🧩 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanirfanx21&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdslmnfslnust&layout=compact&theme=radical)
 ### Top Repository 01
 <a href="https://github.com/mhmmdslmnfslnust/OOP_PROJECT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdslmnfslnust&repo=OOP_PROJECT&theme=dark" />
