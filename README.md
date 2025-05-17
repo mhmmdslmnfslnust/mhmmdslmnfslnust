@@ -35,18 +35,23 @@ Casually learning.
 ---
 
 ## 📊 GitHub Stats
-![Muhammad Suleman Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&theme=radical)
-### 🧩 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdslmnfslnust&layout=compact&theme=radical)
-### Top Repository 01
-<a href="https://github.com/mhmmdslmnfslnust/OOP_PROJECT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdslmnfslnust&repo=OOP_PROJECT&theme=dark" />
+<a href="https://github.com/mhmmdslmnfslnust">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdslmnfslnust&theme=radical&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/mhmmdslmnfslnust">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&theme=radical&line_height=27" alt="Muhammad Suleman Faisal's github stats"/>
 </a>
 
 ### Top Repository 01
+<a href="https://github.com/mhmmdslmnfslnust/OOP_PROJECT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdslmnfslnust&repo=OOP_PROJECT&theme=radical" />
+</a>
+
+### Top Repository 02
 
 <a href="https://github.com/mhmmdslmnfslnust/File-Management-In-CPP">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdslmnfslnust&repo=File-Management-In-CPP&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdslmnfslnust&repo=File-Management-In-CPP&theme=radical" />
 </a>
 
 ---
