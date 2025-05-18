@@ -36,11 +36,11 @@ Casually learning.
 
 ## 📊 GitHub Stats
 <a href="https://github.com/mhmmdslmnfslnust">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdslmnfslnust&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdslmnfslnust&theme=radical&layout=pie&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/mhmmdslmnfslnust">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&theme=radical&line_height=27" alt="Muhammad Suleman Faisal's github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&rank_icon=percentile&theme=radical&line_height=27" alt="Muhammad Suleman Faisal's github stats"/>
 </a>
 
 ### Top Repository 01
