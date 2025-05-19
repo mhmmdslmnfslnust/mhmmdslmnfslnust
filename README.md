@@ -36,7 +36,7 @@ Casually learning.
 
 ## 📊 GitHub Stats
 <a href="https://github.com/mhmmdslmnfslnust">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdslmnfslnust&layout=pie&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdslmnfslnust&layout=donut&theme=radical&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/mhmmdslmnfslnust">
