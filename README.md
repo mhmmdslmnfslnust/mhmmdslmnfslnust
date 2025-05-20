@@ -40,7 +40,7 @@ Casually learning.
 </a>
 
 <a href="https://github.com/mhmmdslmnfslnust">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&rank_icon=percentile&theme=radical&line_height=27" alt="Muhammad Suleman Faisal's github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&rank_icon=percentile&theme=radical&line_height=29" alt="Muhammad Suleman Faisal's github stats"/>
 </a>
 
 ### Top Repository 01
