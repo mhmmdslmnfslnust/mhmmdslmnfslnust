@@ -41,13 +41,17 @@ Casually learning.
 <a href="https://github.com/mhmmdslmnfslnust">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&rank_icon=percentile&theme=tokyonight&line_height=29" alt="Muhammad Suleman Faisal's github stats"/>
 </a>
+
+
 <a href="https://wakatime.com/@mhmmdslmnfslnust">
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=mhmmdslmnfslnust" layout=compact theme="radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mhmmdslmnfslnust" layout=compact theme="radical"/>
 </a>
+
+---
 
 ### Top Repositories
 <a href="https://github.com/mhmmdslmnfslnust/OOP_PROJECT">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdslmnfslnust&repo=OOP_PROJECT&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdslmnfslnust&repo=OOP_PROJECT&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/mhmmdslmnfslnust/Portfolio">
