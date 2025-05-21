@@ -16,8 +16,6 @@ Casually learning.
 ---
 
 ## 📫 Contact Me
-- 📧 Email: `sulemanmuhammed493@gmail.com`
-### Contact Me
 | [<img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="30">](mailto:sulemanmuhammed493@gmail.com) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/muhammed-suleman-faisal-b36407276/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/mhmmdslmnfsl/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mhmmdslmnfslnust) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://https://www.hackerrank.com/profile/sulemanmuhammed1/)
 |:---:|:---:|:---:|:---:|:---:|
 ---
