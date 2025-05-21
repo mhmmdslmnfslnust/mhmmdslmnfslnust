@@ -45,7 +45,7 @@ Casually learning.
 
 
 <a href="https://wakatime.com/@mhmmdslmnfslnust">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mhmmdslmnfslnust" layout=compact theme="radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mhmmdslmnfslnust" theme="tokyonight"/>
 </a>
 
 ---
