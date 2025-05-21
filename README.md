@@ -37,12 +37,14 @@ Casually learning.
 
 ## 📊 GitHub Stats
 <a href="https://github.com/mhmmdslmnfslnust">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdslmnfslnust&layout=donut&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdslmnfslnust&layout=donut-vertical&theme=radical&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/mhmmdslmnfslnust">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&rank_icon=percentile&theme=radical&line_height=29" alt="Muhammad Suleman Faisal's github stats"/>
 </a>
+
+[![Muhammad Suleman Faisal's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhmmdslmnfslnust)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Repository 01
 <a href="https://github.com/mhmmdslmnfslnust/OOP_PROJECT">
