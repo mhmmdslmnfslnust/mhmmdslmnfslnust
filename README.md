@@ -42,7 +42,7 @@ Casually learning.
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&rank_icon=percentile&theme=radical&line_height=29" alt="Muhammad Suleman Faisal's github stats"/>
 </a>
 
-<!-- [![Muhammad Suleman Faisal's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhmmdslmnfslnust)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Muhammad Suleman Faisal's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhmmdslmnfslnust)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Repository 01
 <a href="https://github.com/mhmmdslmnfslnust/OOP_PROJECT">
