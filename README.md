@@ -42,7 +42,7 @@ Casually learning.
 </a>
 
 <a href="https://github.com/mhmmdslmnfslnust">
- <img align="right" src="https://github-stats-extended.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&rank_icon=percentile&theme=tokyonight&line_height=29" alt="Muhammad Suleman Faisal's github stats"/>
+ <img align="right" src="https://github-stats-extended.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&theme=tokyonight&line_height=29" alt="Muhammad Suleman Faisal's github stats"/>
 </a>
 
 <a href="https://wakatime.com/@mhmmdslmnfslnust">
