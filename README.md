@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=mhmmdslmnfslnust)
+
 # Muhammad Suleman Faisal
 
 💧 **Software Engineering Student | Water drinker**  
@@ -16,8 +17,9 @@ Casually learning.
 ---
 
 ## 📫 Contact Me
-| [<img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="30">](mailto:sulemanmuhammed493@gmail.com) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/muhammed-suleman-faisal-b36407276/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/mhmmdslmnfsl/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mhmmdslmnfslnust) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://https://www.hackerrank.com/profile/sulemanmuhammed1/)
+| [<img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="30">](mailto:sulemanmuhammed493@gmail.com) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/muhammed-suleman-faisal-b36407276/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/mhmmdslmnfsl/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mhmmdslmnfslnust) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/profile/sulemanmuhammed1) |
 |:---:|:---:|:---:|:---:|:---:|
+
 ---
 
 ## 🛠️ Languages and Tools
@@ -36,30 +38,28 @@ Casually learning.
 
 ## 📊 GitHub Stats
 <a href="https://github.com/mhmmdslmnfslnust">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdslmnfslnust&layout=donut-vertical&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mhmmdslmnfslnust&layout=donut-vertical&theme=tokyonight&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/mhmmdslmnfslnust">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&rank_icon=percentile&theme=tokyonight&line_height=29" alt="Muhammad Suleman Faisal's github stats"/>
+ <img align="right" src="https://github-stats-extended.vercel.app/api?username=mhmmdslmnfslnust&show_icons=true&rank_icon=percentile&theme=tokyonight&line_height=29" alt="Muhammad Suleman Faisal's github stats"/>
 </a>
 
-
 <a href="https://wakatime.com/@mhmmdslmnfslnust">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mhmmdslmnfslnust" theme="tokyonight"/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=mhmmdslmnfslnust&theme=tokyonight"/>
 </a>
 
 ---
 
 ### Top Repositories
 <a href="https://github.com/mhmmdslmnfslnust/OOP_PROJECT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdslmnfslnust&repo=OOP_PROJECT&theme=tokyonight" />
+  <img align="center" width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=mhmmdslmnfslnust&repo=OOP_PROJECT&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/mhmmdslmnfslnust/Portfolio">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mhmmdslmnfslnust&repo=Portfolio&theme=tokyonight" />
+  <img align="right" width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=mhmmdslmnfslnust&repo=Portfolio&theme=tokyonight" />
 </a>
 
 ---
 
 > _"Impossible is for the unwilling"_
-
